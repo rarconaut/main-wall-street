@@ -1,4 +1,4 @@
-from main-wall-street.app import db
+from .app import db
 
 def create_tables():
     # db.drop_all()
