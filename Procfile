@@ -1,1 +1,1 @@
-web: gunicorn main-wall-street.app:app
+web: gunicorn app:app
