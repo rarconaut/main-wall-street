@@ -63,5 +63,5 @@ Highcharts https://www.highcharts.com/
 
 
 
-Data Science & Visualization Bootcamp Project 2 - Group 6
-Heroku deployment of UCSD Bootcamp Project 2
+2020-21 Data Science & Visualization Bootcamp - Project 2 Group 6
+Heroku deployment of Project 2
