@@ -15,10 +15,10 @@ Is there really such a thing as a National Economy, operating as a single entity
 To examine these two narratives, we’ve created an interactive dashboard allowing users to explore geographic concentrations of corporate wealth in the U.S., composed of companies in the S&P 500. 
 
 Our dashboard allows users to compare corporate market capital vs. median household income within the same state. It shows 3 visualizations: 
-A US choropleth map of Median Household Income with popups
-Hexbin chart of Market Capital with popups
-Circle chart of Unemployment Rates with popups
-And a Diamond chart of State Revenue with popups
+<ul><li>US choropleth map of Median Household Income with popups</li>
+<li>Hexbin chart of Market Capital with popups</li>
+<li>Circle chart of Unemployment Rates with popups</li>
+<li>And a Diamond chart of State Revenue with popups</li></ul>
 
 We use PostgreSQL to serve our API. 
 
