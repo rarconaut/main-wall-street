@@ -5,6 +5,7 @@ The Geography of Corporate Capital
 Authors:
 Bretton, Brice, Gunjan, Jeremy, Rawaf
 
+![image](https://user-images.githubusercontent.com/68246130/114586354-6bc3e000-9c39-11eb-8a88-a2263531bf32.png)
 
 
 Our Story
