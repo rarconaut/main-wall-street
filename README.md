@@ -14,21 +14,21 @@ Is there really such a thing as a National Economy, operating as a single entity
 To examine these two narratives, we’ve created an interactive dashboard allowing users to explore geographic concentrations of corporate wealth in the U.S., composed of companies in the S&P 500. 
 
 Our dashboard allows users to compare corporate market capital vs. median household income within the same state. It shows 3 visualizations: 
-A US choropleth map of combined corporate market capital with popups
-Hexbin chart of Median Household Income with popups
-Circle chart of Median Household Income with popups
-And a Diamond chart of Median Household Income with popups
+A US choropleth map of Median Household Income with popups
+Hexbin chart of Market Capital with popups
+Circle chart of Unemployment Rates with popups
+And a Diamond chart of State Revenue with popups
 
-We use PostgreSQL as our database. 
+We use PostgreSQL to serve our API. 
 
 
 
 Research Questions
 
-How is corporate wealth distributed geographically across the U.S.?
+How is corporate wealth, as measured by market capital, distributed geographically across the U.S.?
 --It seems that Main Street and Wall Street are not representative of each other.
 
-How does corporate wealth compare with median household (MHI) income in the same regions? (Main Street vs. Wall Street comparison)
+How does corporate wealth compare with median household income (MHI), unemployment rates, and state revenues in the same regions? (Main Street vs. Wall Street comparison)
 --While MHI is shows some variation state-to-state (eg. +/- $20k), it is much evenly spread geographically when compared to concentrations of corporate capital.
 
 
